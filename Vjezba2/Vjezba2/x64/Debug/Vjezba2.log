@@ -1,0 +1,8 @@
+﻿  structs.c
+C:\Users\Dora\Desktop\StruktureLabovi\Vjezba2\Vjezba2\structs.c(25,22): warning C4047: 'return': 'Ptr' differs in levels of indirection from 'int'
+C:\Users\Dora\Desktop\StruktureLabovi\Vjezba2\Vjezba2\structs.c(27,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Dora\Desktop\StruktureLabovi\Vjezba2\Vjezba2\structs.c(170,4): warning C4013: 'memset' undefined; assuming extern returning int
+C:\Users\Dora\Desktop\StruktureLabovi\Vjezba2\Vjezba2\structs.c(74,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\Dora\Desktop\StruktureLabovi\Vjezba2\Vjezba2\structs.c(246,8): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Dora\Desktop\StruktureLabovi\Vjezba2\Vjezba2\structs.c(318,9): warning C4133: 'function': incompatible types - from 'char [1024]' to 'FILE *'
+  Vjezba2.vcxproj -> C:\Users\Dora\Desktop\StruktureLabovi\Vjezba2\x64\Debug\Vjezba2.exe

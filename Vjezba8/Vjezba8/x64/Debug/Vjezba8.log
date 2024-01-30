@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Dora\Desktop\StruktureLabovi\Vjezba8\Vjezba8\main.c(12,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Vjezba8.vcxproj -> C:\Users\Dora\Desktop\StruktureLabovi\Vjezba8\x64\Debug\Vjezba8.exe

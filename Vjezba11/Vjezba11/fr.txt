@@ -1,0 +1,3 @@
+Pariz 216000
+Marseille 861635
+Lyon 513275

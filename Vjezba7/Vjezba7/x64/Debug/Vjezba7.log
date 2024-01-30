@@ -1,0 +1,3 @@
+﻿  tree.c
+C:\Users\Dora\Desktop\StruktureLabovi\Vjezba7\Vjezba7\tree.c(49,2): warning C4013: 'gets' undefined; assuming extern returning int
+  Vjezba7.vcxproj -> C:\Users\Dora\Desktop\StruktureLabovi\Vjezba7\x64\Debug\Vjezba7.exe

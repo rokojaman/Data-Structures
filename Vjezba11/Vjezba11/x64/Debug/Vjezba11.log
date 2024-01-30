@@ -1,0 +1,4 @@
+﻿  src.c
+C:\Users\Dora\Desktop\StruktureLabovi\Vjezba11\Vjezba11\src.c(109,16): warning C4013: 'calculateIndex' undefined; assuming extern returning int
+C:\Users\Dora\Desktop\StruktureLabovi\Vjezba11\Vjezba11\src.c(282,8): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Vjezba11.vcxproj -> C:\Users\Dora\Desktop\StruktureLabovi\Vjezba11\x64\Debug\Vjezba11.exe
